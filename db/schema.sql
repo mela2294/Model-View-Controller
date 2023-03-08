@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS rice_db;
+
+CREATE DATABASE rice_db;
